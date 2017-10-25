@@ -1,0 +1,10 @@
+/home/mateusz/Desktop/Kursy/MyMvc/bin/Debug/netcoreapp2.0/MyMvc.deps.json
+/home/mateusz/Desktop/Kursy/MyMvc/bin/Debug/netcoreapp2.0/MyMvc.runtimeconfig.json
+/home/mateusz/Desktop/Kursy/MyMvc/bin/Debug/netcoreapp2.0/MyMvc.runtimeconfig.dev.json
+/home/mateusz/Desktop/Kursy/MyMvc/bin/Debug/netcoreapp2.0/MyMvc.dll
+/home/mateusz/Desktop/Kursy/MyMvc/bin/Debug/netcoreapp2.0/MyMvc.pdb
+/home/mateusz/Desktop/Kursy/MyMvc/obj/Debug/netcoreapp2.0/MyMvc.csproj.CoreCompileInputs.cache
+/home/mateusz/Desktop/Kursy/MyMvc/obj/Debug/netcoreapp2.0/MyMvc.AssemblyInfoInputs.cache
+/home/mateusz/Desktop/Kursy/MyMvc/obj/Debug/netcoreapp2.0/MyMvc.AssemblyInfo.cs
+/home/mateusz/Desktop/Kursy/MyMvc/obj/Debug/netcoreapp2.0/MyMvc.dll
+/home/mateusz/Desktop/Kursy/MyMvc/obj/Debug/netcoreapp2.0/MyMvc.pdb
